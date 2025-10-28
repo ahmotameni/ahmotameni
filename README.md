@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amir Motameni
+# 👋 Hi, I’m AmirHossein Motameni
 
 Machine Learning Engineer — NLP & Generative AI  
 2+ years building AI-driven products in Italy 🇮🇹  
