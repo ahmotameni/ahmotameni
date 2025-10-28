@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Amir Motameni
 
-<!--
-**ahmotameni/ahmotameni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer — NLP & Generative AI  
+2.5+ years building AI-driven products in Italy 🇮🇹  
+(Treccani, Diplomatici, Notexa, GPT2GPT)
 
-Here are some ideas to get you started:
+Some of my professional work is private due to NDAs and upcoming launches,  
+but I’m always happy to discuss technical details in interviews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Pinned Repositories
+- **Football-prediction** — Telegram bot for match predictions (personal).  
+- **UNOX_Hackathon** — Generative AI prototype built for a hackathon.  
+
+**💡 Note:** Public repos are just side projects; production work is private.
